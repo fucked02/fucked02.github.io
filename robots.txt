@@ -6,4 +6,4 @@ User-Agent: Googlebot
 Disallow: /CNAME
 Disallow: /README.md
 
-Sitemap: https://tethercoin.ru/sitemap.xml
+Sitemap: https://fucked02.github.io/sitemap.xml
