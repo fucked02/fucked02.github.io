@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 100);
 
     const desc = document.querySelector('.desc');
-    const fullText = '\u2008Live in Russia. Love computers <3';
+    const fullText = '\u2008Tether Coin. Telegram : @eric_tether';
     desc.textContent = '\u2008';
     let i = 0;
     function typeWriter() {
